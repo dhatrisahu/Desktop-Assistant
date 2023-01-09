@@ -1,1 +1,2 @@
 # Desktop-Assistant
+Technology has advanced in the twenty-first century. Humans are increasingly compelled to communicate with computers. Today, we teach our computers to complete tasks on their own. As a result, the concept of a virtual assistant was born. Our virtual assistant is a desktop assistant that uses speech recognition. It can understand and carry out the audio instructions given by the user. We don't have to worry about using input devices like the keyboard and mouse, so we'll use them less. It also saves the user a lot of time.
